@@ -1,9 +1,7 @@
--  Hi, I’m @DebolenaMukherjee
--  I’m interested in coding...
--  I’m currently learning BCA ...
--  
-- 
-- 
+- 😊 Hi, I’m @DebolenaMukherjee
+- ✨ I’m interested in coding...
+- 👍 I’m currently learning BCA ...
+  
 
 <!---
 DebolenaMukherjee/DebolenaMukherjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
